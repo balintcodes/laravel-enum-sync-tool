@@ -2,9 +2,9 @@
 
 namespace Balintcodes\LaravelEnumSyncTool;
 
+use Balintcodes\LaravelEnumSyncTool\Commands\LaravelEnumSyncToolCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Balintcodes\LaravelEnumSyncTool\Commands\LaravelEnumSyncToolCommand;
 
 class LaravelEnumSyncToolServiceProvider extends PackageServiceProvider
 {

@@ -2,9 +2,9 @@
 
 namespace Balintcodes\LaravelEnumSyncTool\Tests;
 
+use Balintcodes\LaravelEnumSyncTool\LaravelEnumSyncToolServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Balintcodes\LaravelEnumSyncTool\LaravelEnumSyncToolServiceProvider;
 
 class TestCase extends Orchestra
 {
